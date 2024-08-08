@@ -31,7 +31,7 @@ Feel free to check out my projects and contributions on my [GitHub profile](http
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/mohamedaminharzallah)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-amine-harzallah-8a36911b5/)
 - [GitHub](https://github.com/aminehz)
 
 <!---

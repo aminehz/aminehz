@@ -12,7 +12,7 @@
   - **Mobile App Development:** Flutter
   - **Devops**
 - 🤖 For AI, I hold certifications as an IT Specialist (Certiport Python) and Microsoft Azure AI-900.
-- 📫 How to reach me: [mohamedamin.harzallah@gmail.com](mailto:mohamedamin.harzallah@gmail.com)
+- 📫 How to reach me: [medamin.harzallah@gmail.com](mailto:medamin.harzallah@gmail.com)
 
 ## Skills
 
